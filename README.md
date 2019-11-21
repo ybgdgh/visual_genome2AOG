@@ -32,7 +32,7 @@ Everything Mapped to Wordnet Synsets
 - scene graphs
 - question answer pairs
 
-![1](/home/dm/projects/VG2AOG/image/1.png)
+![1](image/1.png)
 
 在该程序中，我们主要使用了scene graphs部分。该部分的数据结构为：
 
